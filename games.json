@@ -1,0 +1,9 @@
+{
+  "Games": [
+    {
+      "name": "Call of Duty®: Mobile - Garena",
+      "package": "com.garena.game.codm",
+      "icon": "https://raw.githubusercontent.com/shidodesu/testt/main/codmgr.png"
+    }
+  ]
+}
