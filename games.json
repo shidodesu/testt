@@ -6,6 +6,13 @@
       "package": "com.garena.game.codm",
       "icon": "https://raw.githubusercontent.com/shidodesu/testt/main/codmgr.png",
       "lib": "https://test"
+    },
+    {
+      "key": "BS",
+      "name": "Blood Strike - FPS for all",
+      "package": "com.netease.newspike",
+      "icon": "https://raw.githubusercontent.com/shidodesu/testt/main/bs.png",
+      "lib": "https://test"
     }
   ]
 }
