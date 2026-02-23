@@ -5,7 +5,7 @@
       "name": "Call of Duty®: Mobile - Garena",
       "package": "com.garena.game.codm",
       "icon": "https://raw.githubusercontent.com/shidodesu/testt/main/codmgr.png",
-      "lib": "https://test"
+      "lib": "https://raw.githubusercontent.com/shidodesu/codmgr/main/libshido.so"
     },
     {
       "key": "TEST",
